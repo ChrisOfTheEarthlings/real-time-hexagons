@@ -1,0 +1,23 @@
+{
+  "name": "real-time-hexagons",
+  "version": "1.0.0",
+  "description": "An online multiplayer version of my original hexagon-based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisOfTheEarthlings/real-time-hexagons.git"
+  },
+  "keywords": [
+    "hexagons",
+    "real-time-strategy"
+  ],
+  "author": "Chris Winjum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisOfTheEarthlings/real-time-hexagons/issues"
+  },
+  "homepage": "https://github.com/ChrisOfTheEarthlings/real-time-hexagons#readme"
+}
